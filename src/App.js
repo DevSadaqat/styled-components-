@@ -18,7 +18,7 @@ function App() {
       <GlobalStyles />
         <Header></Header>
         <Container>
-          <h1>Styled Componnet</h1> 
+          <h1>Styled Components in React</h1> 
         </Container> 
       </>
     </ThemeProvider>
